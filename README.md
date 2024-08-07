@@ -1,16 +1,21 @@
-## Hi there 👋
+## u know what? 
 
-<!--
-**0xp17j8/0xp17j8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        _______________________________
+       < Our weapons are our keyboards >
+        --------------------------------
+                  \
+                   \ ^__^
+                     (oo)\_______
+                  (  (__)\       )\/\
+                   _) /  ||----w |
+                  (.)/   ||     ||
+                   `'    ^^     ^^
 
-Here are some ideas to get you started:
+ ______________________________________________
+/            panji take pc 18h/24h              \
+|  u can found him on telegram everytime online |
+| [#] info about me : https://t.me/About_Panji  |
+\           dm me : https://t.me/I0p17j8        /   
+ -----------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
