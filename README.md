@@ -18,7 +18,7 @@
 \           dm me : https://t.me/I0p17j8        /   
  -----------------------------------------------
 /////////////////////////////////////////////////
-// ilove ropping                               //
+// ilove fuzzing                               //
 // RCE lover                                   //
 // EIP fucker                                  //
 // Exploit Developer?                          //
