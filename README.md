@@ -14,8 +14,8 @@
  ______________________________________________
 /            panji take pc 18h/24h              \
 |  u can found him on telegram everytime online |
-| [#] info about me : https://t.me/About_Panji  |
-\           dm me : https://t.me/I0p17j8        /   
+| [#] info about me : https://t.me/o_zakariya   |
+\           dm me : https://t.me/x86byte        /   
  -----------------------------------------------
 /////////////////////////////////////////////////
 // ilove fuzzing                               //
