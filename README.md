@@ -18,7 +18,7 @@ Focused on:
 
 | Project | Release | Description |
 |---------|---------|-------------|
-| [Obfusk8](https://github.com/x86byte/Obfusk8) | v1.0 (27 May 2025) | Obfuscation framework (C++17) |
+| [Obfusk8](https://github.com/x86byte/Obfusk8) | [v1.0 (27 May 2025)](https://github.com/x86byte/Obfusk8/releases) | Obfuscation framework (C++17) |
 
 
 ---
