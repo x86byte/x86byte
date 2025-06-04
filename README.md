@@ -18,7 +18,8 @@ Focused on:
 ### Featured Projects
 
 **[Obfusk8](https://github.com/x86byte/Obfusk8)** – Obfuscation framework (C++17)  
-![](https://img.shields.io/github/stars/x86byte/Obfusk8?style=flat-square)           ^           ![](https://img.shields.io/github/forks/x86byte/Obfusk8?style=flat-square)
+![Total Stars Earned](https://img.shields.io/github/stars/x86byte/Obfusk8?style=flat-square)
+![Total Forks](https://img.shields.io/github/forks/x86byte/Obfusk8?style=flat-square)
 
 ---
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x86byte&show_icons=true&theme=tokyonight&count_private=true)
