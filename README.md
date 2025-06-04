@@ -1,2 +1,2 @@
 
-![<x86byte>'s Stats](https://github-readme-stats.vercel.app/api?username=<x86byte>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=x86byte&show_icons=true&theme=ADD_THEME_HERE" width="400">
