@@ -23,9 +23,6 @@ Focused on:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x86byte&show_icons=true&theme=tokyonight&count_private=true)
-
-
 
 
 
