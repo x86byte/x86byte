@@ -30,4 +30,4 @@ Focused on:
 
 
 
-> #### Reversing is about reduction, not reconstruction — exposing truth, not wrapping it.
+> ### Reversing is about reduction, not reconstruction — exposing truth, not wrapping it.
