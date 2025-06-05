@@ -7,7 +7,7 @@ Low-level software is a language — I read, write, and rewrite it.
 Focused on:
 
 - Windows & iOS Vulnerability Research (Kernel/Usermode)
-- Obfuscation & Deobfuscation in C/C++/ASM
+- Obfuscation & Deobfuscation in C/C++/ASM [![Obfuscation](https://img.shields.io/badge/focus-Obfuscation-purple)]
 - IDA / WinDbg / x64dbg Plugin Development
 - Compiler Internals & Code Transformation
 - Automated Binary Analysis
@@ -24,7 +24,7 @@ Focused on:
 
 | Project | Release | Description |
 |---------|---------|-------------|
-| [Obfusk8](https://github.com/x86byte/Obfusk8) | [v1.0 (27 May 2025)](https://github.com/x86byte/Obfusk8/releases) | ![Obfuscation](https://img.shields.io/badge/focus-Obfuscation-purple) framework (C++17) |
+| [Obfusk8](https://github.com/x86byte/Obfusk8) | [v1.0 (27 May 2025)](https://github.com/x86byte/Obfusk8/releases) | Obfuscation Library (C++17) |
 
 ---
 
