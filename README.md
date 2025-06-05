@@ -24,14 +24,6 @@ Low-level software is a language — I read, write, and rewrite it.
 
 ---
 
-
-
-<p>
-  <img src="https://github.com/user-attachments/assets/8b7d2d97-70d2-4adc-a331-9fbbb339e5d7" alt="swearing" />
-</p>
-
----
-
 ### Featured Projects
 
 | Project | Release | Description |
