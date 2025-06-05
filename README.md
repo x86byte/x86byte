@@ -1,13 +1,9 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=x86byte&theme=tokyo-night)
 
 ---
-
 Low-level software is a language — I read, write, and rewrite it.
 
-
----
-
-### Focus Areas
+### Focused on:
 
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-Static%20%26%20Dynamic-8e44ad?style=flat-square)
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Research-APT%20%26%20Obfuscation-e74c3c?style=flat-square)
