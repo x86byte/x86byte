@@ -16,13 +16,13 @@ Low-level software is a language — I read, write, and rewrite it.
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Research-APT%20%26%20Obfuscation-e74c3c?style=flat-square)
 ![Exploit Dev](https://img.shields.io/badge/Exploitation-Kernel%20%7C%20Usermode-c0392b?style=flat-square)
 
+![Compiler Internals](https://img.shields.io/badge/Compiler%20Internals-IR%20%26%20Backend-27ae60?style=flat-square)
+![Code Transformation](https://img.shields.io/badge/Code%20Transformation-Obfuscation%20%26%20Optimization-2ecc71?style=flat-square)
+
 ![Obfuscation](https://img.shields.io/badge/Obfuscation-C%2FC%2B%2B%2FASM-9b59b6?style=flat-square)
 ![Deobfuscation](https://img.shields.io/badge/Deobfuscation-C%2FC%2B%2B%2FASM-d2527f?style=flat-square)
 
 ![Binary Analysis](https://img.shields.io/badge/Binary%20Analysis-Automated%20%7C%20Manual-f39c12?style=flat-square)
-
-![Compiler Internals](https://img.shields.io/badge/Compiler%20Internals-IR%20%26%20Backend-27ae60?style=flat-square)
-![Code Transformation](https://img.shields.io/badge/Code%20Transformation-Obfuscation%20%26%20Optimization-2ecc71?style=flat-square)
 
 ![Plugin Dev](https://img.shields.io/badge/Plugin%20Dev-IDA%20%7C%20WinDbg%20%7C%20x64dbg-6c5ce7?style=flat-square)
 
