@@ -21,8 +21,8 @@ Low-level software is a language — I read, write, and rewrite it.
 
 ![Binary Analysis](https://img.shields.io/badge/Binary%20Analysis-Automated%20%7C%20Manual-f39c12?style=flat-square)
 
-![Compiler Internals](https://img.shields.io/badge/Compiler-IR%20%7C%20Backend-27ae60?style=flat-square)
-![Code Transformation](https://img.shields.io/badge/Code%20Xform-Obfuscation%20Pipelines-2ecc71?style=flat-square)
+![Compiler Internals](https://img.shields.io/badge/Compiler%20Internals-IR%20%26%20Backend-27ae60?style=flat-square)
+![Code Transformation](https://img.shields.io/badge/Code%20Transformation-Obfuscation%20%26%20Optimization-2ecc71?style=flat-square)
 
 ![Plugin Dev](https://img.shields.io/badge/Plugin%20Dev-IDA%20%7C%20WinDbg%20%7C%20x64dbg-6c5ce7?style=flat-square)
 
