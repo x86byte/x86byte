@@ -6,7 +6,7 @@ Low-level software is a language — I read, write, and rewrite it.
 
 Focused on:
 
-- Windows & iOS Vulnerability Research (Kernel/Usermode)
+- ![Windows](https://img.shields.io/badge/Target-Windows-informational?logo=windows&logoColor=white) & iOS Vulnerability Research (Kernel/Usermode)
 - Obfuscation & Deobfuscation in C/C++/ASM
 - IDA / WinDbg / x64dbg Plugin Development
 - Compiler Internals & Code Transformation
