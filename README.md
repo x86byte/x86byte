@@ -14,10 +14,10 @@ Focused on:
 
                 -
 
-           ```
-  ![swearing](https://github.com/user-attachments/assets/8b7d2d97-70d2-4adc-a331-9fbbb339e5d7)
 
-              ```
+  ###                                                     ![swearing](https://github.com/user-attachments/assets/8b7d2d97-70d2-4adc-a331-9fbbb339e5d7)
+
+
 ---
 
 ### Featured Projects
