@@ -7,11 +7,22 @@ Low-level software is a language — I read, write, and rewrite it.
 Focused on:
 
 - Windows & iOS Vulnerability Research (Kernel/Usermode)
-- Obfuscation & Deobfuscation in C/C++/ASM [![Obfuscation](https://img.shields.io/badge/focus-Obfuscation-purple)]
+- Obfuscation & Deobfuscation in C/C++/ASM
 - IDA / WinDbg / x64dbg Plugin Development
 - Compiler Internals & Code Transformation
 - Automated Binary Analysis
 
+[
+
+![Obfuscation](https://img.shields.io/badge/focus-Obfuscation-purple)
+![Deobfuscation](https://img.shields.io/badge/focus-Deobfuscation-9b59b6)
+![Reverse Engineering](https://img.shields.io/badge/focus-Reverse%20Engineering-blueviolet)
+![Malware Research](https://img.shields.io/badge/focus-Malware%20Research-critical)
+![Exploit Development](https://img.shields.io/badge/focus-Exploit%20Development-red)
+![Compiler Engineering](https://img.shields.io/badge/focus-Compiler%20Engineering-darkgreen)
+![iOS Research](https://img.shields.io/badge/focus-iOS%20Research-black)
+
+]
 ---
 
 <p>
