@@ -11,11 +11,6 @@ Focused on:
 - IDA / WinDbg / x64dbg Plugin Development
 - Compiler Internals & Code Transformation
 - Automated Binary Analysis
-
-
- 
-
-
      ![swearing](https://github.com/user-attachments/assets/8b7d2d97-70d2-4adc-a331-9fbbb339e5d7)
 
 
