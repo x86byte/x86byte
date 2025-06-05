@@ -9,8 +9,8 @@ Low-level software is a language — I read, write, and rewrite it.
 
 ### Focus Areas
 
-![Win Vuln Research](https://img.shields.io/badge/Windows%20Vuln-Kernel%2FUsermode-007ACC?style=flat-square)
-![iOS Vuln Research](https://img.shields.io/badge/iOS%20Vuln-Kernel%2FUsermode-a843f2?style=flat-square)
+![Win Vuln Research](https://img.shields.io/badge/Windows%20Vulnerability%20Researching-Kernel%2FUsermode-007ACC?style=flat-square)
+![iOS Vuln Research](https://img.shields.io/badge/iOS%20Vulnerability%20Researching-Kernel%2FUsermode-a843f2?style=flat-square)
 
 ![Obfuscation](https://img.shields.io/badge/Obfuscation-C%2FC%2B%2B%2FASM-9b59b6?style=flat-square)
 ![Deobfuscation](https://img.shields.io/badge/Deobfuscation-C%2FC%2B%2B%2FASM-d2527f?style=flat-square)
