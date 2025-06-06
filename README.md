@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/55225251-8bfa-408c-8294-a4a4598b1be0)
+![image](https://github.com/user-attachments/assets/a63a072b-f426-491d-9fb3-6bfcd6e7aef2)
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=x86byte&theme=tokyo-night)
 
