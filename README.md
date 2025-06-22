@@ -66,6 +66,5 @@
 ---
 
 > ### ~"Reversing is about reduction, not reconstruction — exposing truth, not wrapping it."
-![Custom](https://img.shields.io/badge/Low--Level--Lang-Rewriting--Binary--Code-8e44ad?style=for-the-badge)
 
 ---
