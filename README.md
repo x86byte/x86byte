@@ -51,7 +51,7 @@
   
    > ### ![Plugin Dev](https://img.shields.io/badge/Plugin%20Dev-IDA%20%7C%20WinDbg%20%7C%20x64dbg-6c5ce7?style=flat-square)
 
----
+---------
 
 ### Featured Projects
 
