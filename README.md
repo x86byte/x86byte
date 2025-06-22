@@ -51,14 +51,17 @@
   
    > ### ![Plugin Dev](https://img.shields.io/badge/Plugin%20Dev-IDA%20%7C%20WinDbg%20%7C%20x64dbg-6c5ce7?style=flat-square)
 
----------
-
+---
+---
+---
 ### Featured Projects
 
 | Project | Release | Description |
 |---------|---------|-------------|
 | [Obfusk8](https://github.com/x86byte/Obfusk8) | [v1.0 (27 May 2025)](https://github.com/x86byte/Obfusk8/releases) | Obfuscation Library (C++17) |
 
+---
+---
 ---
 
 > ### ~"Reversing is about reduction, not reconstruction — exposing truth, not wrapping it."
