@@ -25,9 +25,11 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡼⣿⣿⣾⣤⣠⡼⠀⠀⠀
 ```
 
-Low-level software is a language — I read, write, and rewrite it.
 
 ---
+Low-level software is a language — I read, write, and rewrite it.
+
+
 
 ### Featured Projects
 
