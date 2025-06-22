@@ -34,7 +34,7 @@
 
 ### Core Expertise
 
-   ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-Static%20%26%20Dynamic-8e44ad?style=flat-square)
+   > ### ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-Static%20%26%20Dynamic-8e44ad?style=flat-square)
    ![Malware Analysis](https://img.shields.io/badge/Malware%20Research-APT%20%26%20Obfuscation-e74c3c?style=flat-square)
    ![Exploit Dev](https://img.shields.io/badge/Exploitation-Kernel%20%7C%20Usermode-c0392b?style=flat-square)
   
