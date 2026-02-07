@@ -54,7 +54,7 @@
 
 | Project | Release | Description |
 |---------|---------|-------------|
-| [Obfusk8](https://github.com/x86byte/Obfusk8) | [v1.0 (27 May 2025)](https://github.com/x86byte/Obfusk8/releases) | Obfuscation Library (C++17) |
+| [Obfusk8](https://github.com/x86byte/Obfusk8) | [v1.0 (27 May 2025)](https://github.com/x86byte/Obfusk8/releases) | Obfusk8 is a source level C++ compile-time and runtime obfuscation library for anti reverse engineering and binary hardening on Windows |
 
 ---
 
