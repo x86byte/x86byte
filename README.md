@@ -75,9 +75,3 @@
 ---
 
 > ### ~"Reversing is about reduction, not reconstruction — exposing truth, not wrapping it."
-
----
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=x86byte&theme=tokyo-night)
-
----
