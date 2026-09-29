@@ -78,6 +78,6 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=x86byte&theme=tokyo-night)
+![GitHub Activity Graph](https://streak-stats.demolab.com/?user=x86byte&theme=tokyonight)
 
 ---
