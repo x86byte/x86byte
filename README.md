@@ -32,14 +32,12 @@
 ### Current Research & Engineering
 
 * Bin2Bin Obfuscation Engineering (**Ent8**)
-* rust
 * Compiler Infrastructure & **LLVM** Internals
-* LLM Systems Integration (**C++ / Python**)
+* LLM based Decompiler
+* x86/x64 to LLVM IR Lifter
 * Retrieval-Augmented Generation (**RAG**) Systems
 * Compiler Design & Backend Engineering
 * Interpreter Design & Runtime Development
-* Autonomous Systems & Drone Software Engineering
-* Pathfinding, Simulation & Systems Visualization
 
 ---
 
