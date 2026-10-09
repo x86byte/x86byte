@@ -43,11 +43,9 @@
 
 ### Core Expertise
 
-**Reverse Engineering & Threat Analysis**
-
-**Software Security & Obfuscation**
-
-**Systems Internals & Tooling**
+* Reverse Engineering & Threat Analysis
+* Software Security & Obfuscation
+* Systems Internals & Tooling
 
 ---
 
