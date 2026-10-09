@@ -31,10 +31,10 @@
 
 ### Current Research & Engineering
 
+* x86/x64 to LLVM IR Lifter
+* LLM based Decompiler
 * Bin2Bin Obfuscation Engineering (**Ent8**)
 * Compiler Infrastructure & **LLVM** Internals
-* LLM based Decompiler
-* x86/x64 to LLVM IR Lifter
 * Retrieval-Augmented Generation (**RAG**) Systems
 * Compiler Design & Backend Engineering
 * Interpreter Design & Runtime Development
